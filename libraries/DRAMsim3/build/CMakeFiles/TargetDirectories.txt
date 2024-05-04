@@ -1,0 +1,5 @@
+/home/roxe/oscpu/libraries/DRAMsim3/build/CMakeFiles/edit_cache.dir
+/home/roxe/oscpu/libraries/DRAMsim3/build/CMakeFiles/dramsim3main.dir
+/home/roxe/oscpu/libraries/DRAMsim3/build/CMakeFiles/dramsim3.dir
+/home/roxe/oscpu/libraries/DRAMsim3/build/CMakeFiles/dramsim3test.dir
+/home/roxe/oscpu/libraries/DRAMsim3/build/CMakeFiles/rebuild_cache.dir
